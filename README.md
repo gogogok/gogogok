@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Darya Zhdanok
 
 💻 Software Engineering Student  
+
 📊 Trainee/ Junior iOS developer 
+
 🎓 HSE, Software Engineering, 2nd year bachelor
+
 🌍 Open to work
 
 
@@ -29,7 +32,6 @@
 - Swift, UIKit, SwiftUI
 - Java, Spring Boot, SQL
 - PostgreSQL, Docker
-- 
 ---
 
 ## 📫 Contact Me
