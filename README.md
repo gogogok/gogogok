@@ -22,9 +22,9 @@
 
 ### 💼 PlayableHub
 - Finance & CRM system
-- Java + PostgreSQL
-
-👉 [View Project](ссылка)
+- Java Maven) + PostgreSQL
+- OAuth 2.0
+- Made for the company, so not available to show
 
 ---
 
