@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Darya Zhdanok
 
-<!--
-**gogogok/gogogok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student  
+📊 Trainee/ Junior iOS developer 
+🎓 HSE, Software Engineering, 2nd year bachelor
+🌍 Open to work
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ My Projects
+
+### 📱 EWA App
+- iOS app (UIKit)
+- Backend: Spring Boot
+- Features: habits, tracking
+
+👉 [View Project](ссылка)
+
+---
+
+### 💼 PlayableHub
+- Finance & CRM system
+- Java + PostgreSQL
+
+👉 [View Project](ссылка)
+
+---
+
+## 🛠 Tech Stack
+- Swift, UIKit, SwiftUI
+- Java, Spring Boot, SQL
+- PostgreSQL, Docker
+- 
+---
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/darya-zhdanok-b674a02b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Email: knemune@gmail.com
