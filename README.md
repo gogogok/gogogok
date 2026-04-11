@@ -49,7 +49,7 @@
 
 ## 📄 CV
 
-- [View CV (English)](./CV/CV_eng.pdf)
+- [CV](./CV/CV_eng.pdf)
 
 ---
 
