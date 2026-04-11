@@ -67,7 +67,13 @@ Finance & CRM system (commercial project)
 **Tech:**
 - Java (Maven)  
 - PostgreSQL  
-- OAuth 2.0  
+- OAuth 2.0
+
+**Features:**
+- Calculating project development costs
+- Transaction storage
+- Analysis of transactions over time periods
+- Calculation of cost depending on the current tax rate
 
 🔒 Private commercial project
 
