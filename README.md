@@ -69,7 +69,7 @@ Finance & CRM system (commercial project)
 - PostgreSQL  
 - OAuth 2.0  
 
-🔒 Private project
+🔒 Private commercial project
 
 ---
 
