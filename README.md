@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#-english-version">🇬🇧 English</a> • 
-  <a href="#-русская-версия">🇷🇺 Русская версия</a>
+  🇬🇧 English | <a href="./README_RU.md">🇷🇺 Русская версия</a>
 </p>
 
 <p align="center">
@@ -17,13 +16,11 @@
 
 ---
 
-# 🇬🇧 English Version
-
 ## ✨ About Me
 
 - 🎓 **HSE University, Moscow — Software Engineering (2nd year Bachelor)**
 - 📱 **Trainee / Junior iOS Developer**
-- 💻 Interested in **mobile development, backend, and product creation**
+- 💻 Interested in **mobile development, backend, and product development**
 - 🌍 **Open to work & internships**
 
 ---
@@ -45,15 +42,14 @@
 
 ## 📄 CV
 
-- 🇬🇧 [English CV](ссылка)
-- 🇷🇺 [Russian CV](ссылка)
+- [View CV (English)](PASTE_YOUR_LINK_HERE)
 
 ---
 
 ## 🚀 My Projects
 
 ### 📱 EWA App
-iOS app built with **UIKit** + **Spring Boot backend** (deployed on Render)
+iOS app built with **UIKit** + **Spring Boot backend** (Render)
 
 **Features:**
 - Multiplayer for studying together  
@@ -111,85 +107,6 @@ Simple iOS task tracker built with **UIKit**
 
 ---
 
-# 🇷🇺 Русская версия
-
-## ✨ Обо мне
-
-- 🎓 **НИУ ВШЭ, Москва — Программная инженерия (2 курс)**
-- 📱 **Trainee / Junior iOS разработчик**
-- 💻 Интересуюсь **мобильной разработкой, backend и продуктами**
-- 🌍 **Открыта к работе и стажировкам**
-
----
-
-## 🌍 Формат работы
-
-- 💻 **Удалённо:** по всему миру  
-- 📍 **Оффлайн:** Россия (Москва), Беларусь (Минск)
-
----
-
-## 🗣 Языки
-
-- 🇷🇺 Русский — родной  
-- 🇬🇧 Английский — B2  
-- 🇵🇱 Польский — A1  
-
----
-
-## 📄 Резюме
-
-- 🇬🇧 [Резюме (EN)](ссылка)
-- 🇷🇺 [Резюме (RU)](ссылка)
-
----
-
-## 🚀 Проекты
-
-### 📱 EWA App
-iOS-приложение на **UIKit** + backend на **Spring Boot (Render)**
-
-**Функции:**
-- Совместное обучение (multiplayer)  
-- Будильник для других пользователей  
-- Поиск компании на мероприятия  
-- Интеграция FirebaseAuth  
-
-🔗 [Смотреть проект](https://github.com/gogogok/EWA)
-
----
-
-### 💼 PlayableHub
-Финансовая и CRM система
-
-**Технологии:**
-- Java (Maven)  
-- PostgreSQL  
-- OAuth 2.0  
-
-🔒 Коммерческий проект (закрытый)
-
----
-
-### 🌱 Seed
-Простой трекер задач на iOS
-
-**Функции:**
-- Создание привычек  
-- Статистика выполнения  
-- Отслеживание активности  
-
-🔗 [Смотреть проект](https://github.com/gogogok/Seed)
-
----
-
-## 📫 Контакты
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/darya-zhdanok-b674a02b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-- 📧 knemune@gmail.com
-
----
-
 <p align="center">
-  Thanks for visiting / Спасибо за просмотр ✨
+  Thanks for visiting my profile ✨
 </p>
