@@ -18,7 +18,7 @@
 
 ## ✨ About Me
 
-- 🎓 **HSE University, Moscow — Software Engineering (2nd year Bachelor)**
+- 🎓 **Higher School of Economics University, Moscow — Software Engineering (2nd year Bachelor)**
 - 📱 **Trainee / Junior iOS Developer**
 - 💻 Interested in **mobile development, backend, and product development**
 - 🌍 **Open to work & internships**
@@ -32,6 +32,13 @@
 
 ---
 
+## 🎓 Additional Education
+
+- 🟡 Yandex Algorithms Training — **Top 100 participants**
+- 🎨 UI/UX Designer Microdegree (2025–2027), Higher School of Economics, Moscow
+
+---
+  
 ## 🗣 Languages
 
 - 🇷🇺 Russian — Native  
@@ -98,11 +105,20 @@ Simple iOS task tracker built with **UIKit**
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
 
-### Backend & Database
+### Backend & Programming
 ![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-68217A?style=flat-square&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+### Database & Tools
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Design & Productivity
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
 ---
 
