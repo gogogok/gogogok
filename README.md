@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🇬🇧 English | <a href="./README_RU.md">🇷🇺 Русская версия</a>
+  English version| <a href="./README_RU.md">Русская версия</a>
 </p>
 
 <p align="center">
