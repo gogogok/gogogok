@@ -18,7 +18,8 @@
 
 ## ✨ About Me
 
-- 🎓 **Higher School of Economics University, Moscow — Software Engineering (2nd year Bachelor)**
+-🎓 **Technical University of Applied Sciences Würzburg-Schweinfurt, Wurzburg — Computer Science**
+- 🎓 **Higher School of Economics University, Moscow — Software Engineering (3nd year Bachelor)**
 - 📱 **Trainee / Junior iOS Developer**
 - 💻 Interested in **mobile development, backend, and product development**
 - 🌍 **Open to work & internships**
@@ -28,8 +29,7 @@
 ## 🌍 Work Preferences
 
 - 💻 **Remote:** worldwide  
-- 📍 **On-site:** Russia (Moscow), Belarus (Minsk)
-
+- 📍 **On-site:** Germany
 ---
 
 ## 🎓 Additional Education
@@ -43,7 +43,7 @@
 
 - 🇷🇺 Russian — Native  
 - 🇬🇧 English — B2  
-- 🇵🇱 Polish — A1  
+- 🇵🇱 Polish — A2
 
 ---
 
